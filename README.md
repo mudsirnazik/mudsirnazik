@@ -31,7 +31,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:cffafe,100:ecfeff&height=110&section=header&text=About%20Me&fontSize=30&fontColor=0f172a&fontAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:f0fdff,100:ffffff&height=110&section=header&text=About%20Me&fontSize=30&fontColor=0f172a&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 <table align="center" width="100%">
 <tr>
@@ -43,10 +43,10 @@
 I build and automate cloud infrastructure, design CI/CD pipelines, and explore the intersection of **AiOps**, **DevOps**, **DevSecOps**, and **Artificial Intelligence** to make deployments smarter, faster, and more secure.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AiOps-e0f2fe?style=for-the-badge&logoColor=0f172a&labelColor=e0f2fe&color=e0f2fe" />
-  <img src="https://img.shields.io/badge/DevOps-cffafe?style=for-the-badge&logo=devdotto&logoColor=0f172a&labelColor=cffafe&color=cffafe" />
-  <img src="https://img.shields.io/badge/DevSecOps-ecfeff?style=for-the-badge&logoColor=0f172a&labelColor=ecfeff&color=ecfeff" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-f0f9ff?style=for-the-badge&logo=openai&logoColor=0f172a&labelColor=f0f9ff&color=f0f9ff" />
+  <img src="https://img.shields.io/badge/AiOps-0891B2?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/DevOps-0F766E?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/DevSecOps-22D3EE?style=for-the-badge&logoColor=0d1117&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=for-the-badge&logo=openai&logoColor=22D3EE&labelColor=0d1117" />
 </p>
 
 **🚀 What I'm currently doing:**
@@ -64,19 +64,28 @@ I build and automate cloud infrastructure, design CI/CD pipelines, and explore t
 **💡 Passionate about:**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/☁️_Cloud_Computing-f8fafc?style=flat-square&labelColor=f8fafc&color=f8fafc" />
-  <img src="https://img.shields.io/badge/⚙️_DevOps_%26_Automation-f8fafc?style=flat-square&labelColor=f8fafc&color=f8fafc" />
-  <img src="https://img.shields.io/badge/☸️_Kubernetes-f8fafc?style=flat-square&labelColor=f8fafc&color=f8fafc" />
-  <img src="https://img.shields.io/badge/🔐_DevSecOps-f8fafc?style=flat-square&labelColor=f8fafc&color=f8fafc" />
-  <img src="https://img.shields.io/badge/🐧_Linux-f8fafc?style=flat-square&labelColor=f8fafc&color=f8fafc" />
-  <img src="https://img.shields.io/badge/🤝_Open_Source-f8fafc?style=flat-square&labelColor=f8fafc&color=f8fafc" />
+  <img src="https://img.shields.io/badge/☁️_Cloud_Computing-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
+  <img src="https://img.shields.io/badge/⚙️_DevOps_%26_Automation-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
+  <img src="https://img.shields.io/badge/☸️_Kubernetes-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
+  <img src="https://img.shields.io/badge/🔐_DevSecOps-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
+  <img src="https://img.shields.io/badge/🐧_Linux-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
+  <img src="https://img.shields.io/badge/🤝_Open_Source-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
 </p>
+
+**📊 Skill Confidence:**
+
+`Docker`        `████████████████░░░░` 80%
+`Kubernetes`    `████████████░░░░░░░░` 60%
+`AWS / Azure`   `██████████████░░░░░░` 70%
+`Terraform`     `██████████░░░░░░░░░░` 50%
+`CI/CD`         `███████████████░░░░░` 75%
+`DevSecOps`     `█████████░░░░░░░░░░░` 45%
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ecfeff,50:cffafe,100:e0f2fe&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:f0fdff,100:ffffff&height=90&section=footer" width="100%"/>
 
 ---
 
@@ -139,6 +148,30 @@ I build and automate cloud infrastructure, design CI/CD pipelines, and explore t
     </td>
   </tr>
 </table>
+
+---
+
+## 🗺️ My DevOps Roadmap
+
+```mermaid
+graph LR
+    A[🐧 Linux & Git] --> B[🐳 Docker]
+    B --> C[☸️ Kubernetes]
+    C --> D[🏗️ Terraform / IaC]
+    D --> E[☁️ AWS & Azure]
+    E --> F[⚙️ CI/CD Pipelines]
+    F --> G[🔐 DevSecOps]
+    G --> H[🤖 AiOps & AI-driven Automation]
+
+    style A fill:#0d1117,stroke:#22D3EE,color:#ffffff
+    style B fill:#0d1117,stroke:#22D3EE,color:#ffffff
+    style C fill:#0d1117,stroke:#22D3EE,color:#ffffff
+    style D fill:#0d1117,stroke:#22D3EE,color:#ffffff
+    style E fill:#0d1117,stroke:#22D3EE,color:#ffffff
+    style F fill:#0d1117,stroke:#22D3EE,color:#ffffff
+    style G fill:#0d1117,stroke:#22D3EE,color:#ffffff
+    style H fill:#0f766e,stroke:#22D3EE,color:#ffffff
+```
 
 ---
 
@@ -245,6 +278,14 @@ I enjoy turning manual infrastructure and deployment tasks into **repeatable, au
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/output/github-snake.svg" />
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/output/github-snake.svg" />
   </picture>
+</p>
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
