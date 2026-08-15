@@ -1,0 +1,96 @@
+<svg width="100%" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="80%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="150" fill="url(#bgGrad)" rx="22"/>
+
+  <g opacity="0.18" stroke="#22d3ee" stroke-width="1" fill="none">
+    <ellipse cx="600" cy="72" rx="560" ry="40"/>
+    <ellipse cx="600" cy="72" rx="480" ry="55"/>
+  </g>
+
+  <!-- Docker -->
+  <g filter="url(#glow)">
+    <text font-size="34" text-anchor="middle">🐳
+      <animateMotion dur="1.6s" repeatCount="indefinite" path="M60,90 Q130,25 200,90 T340,90"/>
+    </text>
+  </g>
+
+  <!-- Kubernetes -->
+  <g filter="url(#glow)">
+    <text font-size="34" text-anchor="middle">☸️
+      <animateMotion dur="1.9s" repeatCount="indefinite" path="M150,90 Q220,30 290,90 T430,90"/>
+    </text>
+  </g>
+
+  <!-- AWS/Cloud -->
+  <g filter="url(#glow)">
+    <text font-size="34" text-anchor="middle">☁️
+      <animateMotion dur="1.4s" repeatCount="indefinite" path="M330,50 Q400,100 470,50 T610,50"/>
+    </text>
+  </g>
+
+  <!-- Azure/Lightning automation -->
+  <g filter="url(#glow)">
+    <text font-size="34" text-anchor="middle">⚡
+      <animateMotion dur="2.1s" repeatCount="indefinite" path="M500,95 Q580,25 660,95 T800,95"/>
+    </text>
+  </g>
+
+  <!-- Git -->
+  <g filter="url(#glow)">
+    <text font-size="34" text-anchor="middle">🔀
+      <animateMotion dur="1.5s" repeatCount="indefinite" path="M650,45 Q720,95 790,45 T930,45"/>
+    </text>
+  </g>
+
+  <!-- Linux -->
+  <g filter="url(#glow)">
+    <text font-size="34" text-anchor="middle">🐧
+      <animateMotion dur="1.8s" repeatCount="indefinite" path="M780,95 Q850,30 920,95 T1060,95"/>
+    </text>
+  </g>
+
+  <!-- Python -->
+  <g filter="url(#glow)">
+    <text font-size="34" text-anchor="middle">🐍
+      <animateMotion dur="1.3s" repeatCount="indefinite" path="M950,50 Q1010,100 1070,50 T1180,50"/>
+    </text>
+  </g>
+
+  <!-- GitHub -->
+  <g filter="url(#glow)">
+    <text font-size="34" text-anchor="middle">🐙
+      <animateMotion dur="1.7s" repeatCount="indefinite" path="M60,90 Q130,25 200,90 T340,90"/>
+    </text>
+  </g>
+
+  <!-- Gear / automation -->
+  <g filter="url(#glow)">
+    <text font-size="34" text-anchor="middle">⚙️
+      <animateMotion dur="1.55s" repeatCount="indefinite" path="M1030,90 Q1090,25 1150,90 T1200,90"/>
+    </text>
+  </g>
+
+  <!-- Lock / DevSecOps -->
+  <g filter="url(#glow)">
+    <text font-size="34" text-anchor="middle">🔐
+      <animateMotion dur="2s" repeatCount="indefinite" path="M900,90 Q970,20 1040,90 T1180,90"/>
+    </text>
+  </g>
+
+  <text x="600" y="140" text-anchor="middle" font-family="monospace" font-size="15" fill="#7dd3fc" opacity="0.85">
+    Docker · Kubernetes · AWS · Azure · Git · Linux · Python · DevSecOps
+  </text>
+</svg>
