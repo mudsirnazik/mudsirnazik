@@ -1,253 +1,660 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0891b2&height=140&section=header&text=Mudsir%20Nazik&fontSize=42&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=DevOps%20%7C%20Cloud%20%7C%20Automation%20Engineer&descAlignY=62&descSize=15&descAlign=50" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mudsir Nazik · DevOps Cloud</title>
+  <!-- Font & Icons -->
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      background: #0b1120;
+      font-family: 'Fira Code', monospace;
+      color: #e2e8f0;
+      overflow-x: hidden;
+      line-height: 1.6;
+    }
+    /* ===== ANIMATED BACKGROUND ===== */
+    #bg-canvas {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      z-index: 0;
+      pointer-events: none;
+      background: radial-gradient(circle at 20% 30%, #0f172a, #020617);
+    }
+    .page-wrapper {
+      position: relative;
+      z-index: 2;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 1.5rem 1.5rem 2rem;
+    }
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Docker+%7C+Kubernetes+%7C+CI%2FCD+%F0%9F%90%B3;AWS+%7C+Azure+%7C+Terraform+%F0%9F%9A%80;Automating+Everything+Possible+%E2%9A%99%EF%B8%8F;Learning+Cloud+Architecture+%26+DevSecOps+%F0%9F%94%90;Turning+Manual+Tasks+into+Workflows+%F0%9F%A4%96" alt="Typing SVG" />   
-</p>
+    /* ===== HEADER WAVE ===== */
+    .capsule-header {
+      width: 100%;
+      margin-bottom: 0.5rem;
+    }
+    .capsule-header img {
+      display: block;
+      width: 100%;
+      height: auto;
+      border-radius: 0 0 30px 30px;
+    }
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀%20Open%20to-DevOps%20%7C%20Cloud%20%7C%20Open%20Source%20Collaborations-22c55e?style=for-the-badge" />
-</p>
+    /* ===== TYPING & BADGES ===== */
+    .typing-area {
+      text-align: center;
+      margin: 1rem 0 0.5rem;
+    }
+    .typing-area img {
+      max-width: 100%;
+    }
+    .badge-open {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 0.6rem 1.2rem;
+      margin: 0.8rem 0;
+    }
+    .badge-open img {
+      height: 36px;
+      border-radius: 30px;
+    }
+    .social-links {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 1.2rem 2rem;
+      margin: 1.2rem 0 0.6rem;
+    }
+    .social-links a {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: #0d1a2b;
+      padding: 0.5rem 1.4rem;
+      border-radius: 60px;
+      color: #e2e8f0;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.95rem;
+      border: 1px solid #1e2f44;
+      transition: 0.2s ease;
+      backdrop-filter: blur(4px);
+    }
+    .social-links a:hover {
+      background: #1a2c42;
+      border-color: #22d3ee;
+      color: #ffffff;
+      transform: scale(1.02);
+    }
+    .profile-views {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 1.5rem 2.5rem;
+      margin: 1rem 0 1.8rem;
+    }
+    .profile-views span {
+      background: rgba(13, 26, 43, 0.7);
+      backdrop-filter: blur(4px);
+      padding: 0.3rem 1.2rem;
+      border-radius: 40px;
+      font-size: 0.9rem;
+      border: 1px solid #1e3250;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .profile-views i {
+      color: #22d3ee;
+    }
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mudsir-nazik512/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-  </a>&nbsp;
-  <a href="https://github.com/mudsirnazik">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  </a>
-</p>
+    /* ===== CARDS ===== */
+    .section-card {
+      background: rgba(13, 26, 43, 0.55);
+      backdrop-filter: blur(8px);
+      border: 1px solid #1e3250;
+      border-radius: 28px;
+      padding: 1.8rem 2rem;
+      margin: 2.2rem 0;
+      box-shadow: 0 20px 40px -12px rgba(0, 0, 0, 0.7);
+      transition: 0.25s;
+    }
+    .section-card:hover {
+      border-color: #2d6b8a;
+      box-shadow: 0 20px 50px -10px #0f766e33;
+    }
+    .section-title {
+      font-size: 1.7rem;
+      font-weight: 600;
+      letter-spacing: -0.5px;
+      color: #f0f9ff;
+      border-left: 5px solid #22d3ee;
+      padding-left: 1rem;
+      margin-bottom: 1.2rem;
+    }
+    .section-title i {
+      color: #22d3ee;
+      margin-right: 10px;
+    }
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mudsirnazik&label=Profile+Views&color=0891b2&style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/followers/mudsirnazik?label=Followers&style=for-the-badge&color=0891b2&labelColor=0d1117" />
-  <a href="https://github.com/mudsirnazik">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+    .code-block {
+      background: #0b1423cc;
+      backdrop-filter: blur(4px);
+      padding: 1.2rem 1.5rem;
+      border-radius: 20px;
+      font-size: 0.9rem;
+      border-left: 4px solid #0f766e;
+      overflow-x: auto;
+      white-space: pre-wrap;
+      word-break: break-word;
+      color: #cbd5e1;
+    }
 
----
+    .tech-icons {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.8rem 0.4rem;
+      margin: 0.5rem 0;
+    }
+    .tech-icons img {
+      height: 48px;
+      width: auto;
+      filter: drop-shadow(0 0 6px #0f766e44);
+      transition: 0.2s;
+    }
+    .tech-icons img:hover {
+      transform: scale(1.08);
+      filter: drop-shadow(0 0 12px #22d3ee88);
+    }
 
-## 👾 About Me
+    .badge-strip {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.5rem 0.8rem;
+      margin: 1rem 0 0.2rem;
+    }
+    .badge-strip img {
+      height: 34px;
+      border-radius: 30px;
+    }
 
-```yaml
-name: Mudsir Nazik
-role: DevOps | Cloud | Automation Enthusiast
+    .focus-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.8rem;
+      margin-top: 0.5rem;
+    }
+    .focus-item {
+      background: #0b1729cc;
+      backdrop-filter: blur(4px);
+      padding: 1.2rem 1.5rem;
+      border-radius: 24px;
+      border: 1px solid #1f3857;
+    }
+    .focus-item h3 {
+      color: #22d3ee;
+      font-size: 1.25rem;
+      margin-bottom: 0.5rem;
+    }
+    .focus-item p {
+      color: #b9cbeb;
+      font-size: 0.9rem;
+    }
 
-what_i_do:
-  - Build and automate cloud infrastructure
-  - Create CI/CD pipelines and deployment workflows
-  - Containerize applications with Docker
-  - Explore Kubernetes-based orchestration
-  - Work with Linux, Git, Python, AWS, and Azure
+    .pinned-repos {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1.5rem;
+      margin: 0.8rem 0;
+    }
+    .pinned-repos a {
+      flex: 1 1 220px;
+      max-width: 300px;
+      background: #0d1a2bcc;
+      backdrop-filter: blur(4px);
+      border-radius: 24px;
+      padding: 0.2rem;
+      border: 1px solid #1e3250;
+      transition: 0.25s;
+    }
+    .pinned-repos a:hover {
+      border-color: #22d3ee;
+      transform: translateY(-4px) scale(1.01);
+      box-shadow: 0 12px 30px -8px #0f766e44;
+    }
+    .pinned-repos img {
+      width: 100%;
+      height: auto;
+      border-radius: 24px;
+      display: block;
+    }
 
-currently:
-  - ☁️ Building DevOps, Cloud & Automation projects
-  - 🐳 Working with Docker and containerized environments
-  - ☸️ Learning advanced Kubernetes concepts
-  - 🏗️ Exploring Terraform and Infrastructure as Code
-  - 🔐 Expanding knowledge in DevSecOps
-  - 🤖 Exploring AI-driven DevOps automation
+    .stats-grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1.5rem;
+      margin: 1rem 0;
+    }
+    .stats-grid img {
+      border-radius: 20px;
+      max-width: 100%;
+      height: auto;
+      box-shadow: 0 10px 20px -8px #00000077;
+    }
 
-passionate_about:
-  - ☁️ Cloud Computing
-  - ⚙️ DevOps & Automation
-  - ☸️ Kubernetes & Container Orchestration
-  - 🔐 DevSecOps
-  - 🐧 Linux & Infrastructure
-  - 🤝 Open Source
+    .contribution-3d, .snake-wrap {
+      display: flex;
+      justify-content: center;
+      margin: 1rem 0;
+    }
+    .contribution-3d img, .snake-wrap picture img {
+      width: 100%;
+      max-width: 780px;
+      border-radius: 30px;
+      border: 1px solid #1f3857;
+      transition: 0.2s;
+    }
+    .contribution-3d img:hover, .snake-wrap picture img:hover {
+      border-color: #22d3ee77;
+    }
 
-open_to:
-  - DevOps collaborations
-  - Cloud engineering projects
-  - Open-source contributions
-  - Infrastructure automation projects
-  - AI-driven DevOps initiatives
+    .footer-wave {
+      margin-top: 2.5rem;
+      width: 100%;
+    }
+    .footer-wave img {
+      display: block;
+      width: 100%;
+      height: auto;
+      border-radius: 30px 30px 0 0;
+    }
 
-```
+    .fun-fact {
+      text-align: center;
+      color: #94a3b8;
+      font-size: 0.95rem;
+      margin: 1rem 0 0.2rem;
+    }
 
-## 🛠️ Tech Stack
+    /* ===== LIVE BADGE ===== */
+    .live-badge {
+      display: inline-block;
+      background: #0f766e;
+      color: #fff;
+      font-weight: 700;
+      font-size: 0.7rem;
+      padding: 0.2rem 0.9rem;
+      border-radius: 40px;
+      letter-spacing: 0.5px;
+      margin-left: 8px;
+      animation: pulse-live 1.8s infinite;
+      vertical-align: middle;
+    }
+    @keyframes pulse-live {
+      0% { opacity: 0.6; box-shadow: 0 0 0 0 #22d3ee66; }
+      50% { opacity: 1; box-shadow: 0 0 12px 4px #22d3ee44; }
+      100% { opacity: 0.6; box-shadow: 0 0 0 0 #22d3ee66; }
+    }
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,powershell,dotnet,aws,azure,docker,kubernetes,nginx,mysql,mongodb,git,github,linux,figma&perline=9" />
-</p>
+    /* ===== FOCUS TABLE STYLING ===== */
+    .focus-table {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 0.8rem 1.2rem;
+      font-size: 0.9rem;
+      background: #0b1729cc;
+      backdrop-filter: blur(4px);
+      padding: 1rem 1.5rem;
+      border-radius: 28px;
+      border: 1px solid #1f3857;
+    }
+    .focus-table div span {
+      color: #22d3ee;
+    }
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
-</p>
+    @media (max-width: 700px) {
+      .focus-grid { grid-template-columns: 1fr; }
+      .page-wrapper { padding: 0.8rem; }
+      .section-card { padding: 1.2rem; }
+      .social-links a { padding: 0.3rem 1rem; font-size: 0.8rem; }
+      .badge-open img { height: 28px; }
+      .profile-views span { font-size: 0.75rem; padding: 0.2rem 0.8rem; }
+      .focus-table { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 450px) {
+      .focus-table { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFmpeg-171717?style=for-the-badge&logo=ffmpeg&logoColor=5cb85c" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20CC-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Affinity%20Photo-7E4DD2?style=for-the-badge&logo=affinityphoto&logoColor=white" />
-</p>
+<!-- ===== ANIMATED BACKGROUND ===== -->
+<canvas id="bg-canvas"></canvas>
 
----
+<div class="page-wrapper">
 
-## 🚀 DevOps & Cloud Journey
+  <!-- CAPSULE HEADER -->
+  <div class="capsule-header">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0891b2&height=140&section=header&text=Mudsir%20Nazik&fontSize=42&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=DevOps%20%7C%20Cloud%20%7C%20Automation%20Engineer&descAlignY=62&descSize=15&descAlign=50" alt="capsule header" />
+  </div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☁️ Cloud Engineering</h3>
-      <p><b>AWS · Azure · Cloud Deployment</b></p>
-      <p>
-        Exploring cloud architecture, deployment strategies, infrastructure management, and scalable application hosting across modern cloud platforms.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Focus-Cloud%20Engineering-0891B2?style=for-the-badge&labelColor=0d1117" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☸️ Kubernetes & Containers</h3>
-      <p><b>Docker · Kubernetes · Nginx</b></p>
-      <p>
-        Building containerized environments and strengthening orchestration knowledge for reliable, portable, and scalable deployments.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Learning-0F766E?style=for-the-badge&labelColor=0d1117" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <h3>⚙️ Automation & DevSecOps</h3>
-      <p><b>CI/CD · Terraform · Linux · Python · Security</b></p>
-      <p>
-        Automating repetitive processes, exploring Infrastructure as Code, and learning how security can be integrated directly into modern DevOps pipelines.
-      </p>
-    </td>
-  </tr>
-</table>
+  <!-- TYPING SVG -->
+  <div class="typing-area">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Docker+%7C+Kubernetes+%7C+CI%2FCD+%F0%9F%90%B3;AWS+%7C+Azure+%7C+Terraform+%F0%9F%9A%80;Automating+Everything+Possible+%E2%9A%99%EF%B8%8F;Learning+Cloud+Architecture+%26+DevSecOps+%F0%9F%94%90;Turning+Manual+Tasks+into+Workflows+%F0%9F%A4%96" alt="Typing SVG" />
+  </div>
 
----
+  <!-- OPEN TO BADGE + LIVE -->
+  <div class="badge-open">
+    <img src="https://img.shields.io/badge/🚀%20Open%20to-DevOps%20%7C%20Cloud%20%7C%20Open%20Source%20Collaborations-22c55e?style=for-the-badge" alt="open to" />
+    <span class="live-badge"><i class="fas fa-circle" style="color:#7affb7; font-size:0.6rem; margin-right:4px;"></i> LIVE</span>
+  </div>
 
-## 📌 Pinned Projects
+  <!-- SOCIAL LINKS -->
+  <div class="social-links">
+    <a href="https://www.linkedin.com/in/mudsir-nazik512/" target="_blank">
+      <i class="fab fa-linkedin-in"></i> CONNECT
+    </a>
+    <a href="https://github.com/mudsirnazik" target="_blank">
+      <i class="fab fa-github"></i> FOLLOW
+    </a>
+  </div>
 
-<!-- Replace the repository placeholders below with Mudsir's actual GitHub repository names. -->
+  <!-- PROFILE VIEWS / FOLLOWERS -->
+  <div class="profile-views">
+    <span><i class="fas fa-eye"></i> PROFILE VIEWS 18</span>
+    <span><i class="fas fa-user-friends"></i> FOLLOWERS 2</span>
+    <span><i class="fab fa-github"></i> GITHUB PROFILE</span>
+  </div>
 
-<p align="center">
-  <a href="https://github.com/mudsirnazik/REPO_NAME_1">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mudsirnazik&repo=REPO_NAME_1&theme=react&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/mudsirnazik/REPO_NAME_2">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mudsirnazik&repo=REPO_NAME_2&theme=react&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
+  <!-- ===== ABOUT ME ===== -->
+  <div class="section-card">
+    <div class="section-title"><i class="fas fa-user-astronaut"></i> 👾 About Me <span class="live-badge" style="font-size:0.6rem; margin-left:12px;">active</span></div>
+    <div class="code-block">
+      <span style="color:#7dd3fc;">name</span>: Mudsir Nazik<br/>
+      <span style="color:#7dd3fc;">role</span>: DevOps | Cloud | Automation Enthusiast<br/><br/>
+      <span style="color:#7dd3fc;">what_i_do</span>:<br/>
+      &nbsp;&nbsp;- Build and automate cloud infrastructure<br/>
+      &nbsp;&nbsp;- Create CI/CD pipelines and deployment workflows<br/>
+      &nbsp;&nbsp;- Containerize applications with Docker<br/>
+      &nbsp;&nbsp;- Explore Kubernetes-based orchestration<br/>
+      &nbsp;&nbsp;- Work with Linux, Git, Python, AWS, and Azure<br/><br/>
+      <span style="color:#7dd3fc;">currently</span>:<br/>
+      &nbsp;&nbsp;- ☁️ Building DevOps, Cloud &amp; Automation projects<br/>
+      &nbsp;&nbsp;- 🐳 Working with Docker and containerized environments<br/>
+      &nbsp;&nbsp;- ☸️ Learning advanced Kubernetes concepts<br/>
+      &nbsp;&nbsp;- 🏗️ Exploring Terraform and Infrastructure as Code<br/>
+      &nbsp;&nbsp;- 🔐 Expanding knowledge in DevSecOps<br/>
+      &nbsp;&nbsp;- 🤖 Exploring AI-driven DevOps automation<br/><br/>
+      <span style="color:#7dd3fc;">passionate_about</span>:<br/>
+      &nbsp;&nbsp;- ☁️ Cloud Computing &nbsp; ⚙️ DevOps &amp; Automation<br/>
+      &nbsp;&nbsp;- ☸️ Kubernetes &amp; Container Orchestration<br/>
+      &nbsp;&nbsp;- 🔐 DevSecOps &nbsp; 🐧 Linux &amp; Infrastructure<br/>
+      &nbsp;&nbsp;- 🤝 Open Source<br/><br/>
+      <span style="color:#7dd3fc;">open_to</span>:<br/>
+      &nbsp;&nbsp;- DevOps collaborations · Cloud engineering projects<br/>
+      &nbsp;&nbsp;- Open-source contributions · Infrastructure automation<br/>
+      &nbsp;&nbsp;- AI-driven DevOps initiatives
+    </div>
+  </div>
 
-<p align="center">
-  <a href="https://github.com/mudsirnazik/REPO_NAME_3">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mudsirnazik&repo=REPO_NAME_3&theme=react&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/mudsirnazik/REPO_NAME_4">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mudsirnazik&repo=REPO_NAME_4&theme=react&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
+  <!-- ===== TECH STACK ===== -->
+  <div class="section-card">
+    <div class="section-title"><i class="fas fa-code"></i> 🛠️ Tech Stack <span class="live-badge" style="font-size:0.6rem;">tools</span></div>
+    <div class="tech-icons">
+      <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,powershell,dotnet,aws,azure,docker,kubernetes,nginx,mysql,mongodb,git,github,linux,figma&perline=9" alt="tech stack" />
+    </div>
+    <div class="badge-strip">
+      <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="nixos" />
+      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="airflow" />
+      <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="tomcat" />
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="sqlserver" />
+      <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="sentry" />
+      <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" alt="scipy" />
+      <img src="https://img.shields.io/badge/FFmpeg-171717?style=for-the-badge&logo=ffmpeg&logoColor=5cb85c" alt="ffmpeg" />
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="canva" />
+      <img src="https://img.shields.io/badge/Adobe%20CC-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="adobe" />
+      <img src="https://img.shields.io/badge/Affinity%20Photo-7E4DD2?style=for-the-badge&logo=affinityphoto&logoColor=white" alt="affinity" />
+    </div>
+  </div>
 
----
+  <!-- ===== DEVOPS & CLOUD JOURNEY ===== -->
+  <div class="section-card">
+    <div class="section-title"><i class="fas fa-cloud-upload-alt"></i> 🚀 DevOps &amp; Cloud Journey <span class="live-badge" style="font-size:0.6rem;">evolving</span></div>
+    <div class="focus-grid">
+      <div class="focus-item">
+        <h3>☁️ Cloud Engineering</h3>
+        <p><b>AWS · Azure · Cloud Deployment</b></p>
+        <p>Exploring cloud architecture, deployment strategies, infrastructure management, and scalable application hosting across modern cloud platforms.</p>
+        <p style="margin-top:8px;"><img src="https://img.shields.io/badge/Focus-Cloud%20Engineering-0891B2?style=for-the-badge&labelColor=0d1117" alt="focus cloud" /></p>
+      </div>
+      <div class="focus-item">
+        <h3>☸️ Kubernetes &amp; Containers</h3>
+        <p><b>Docker · Kubernetes · Nginx</b></p>
+        <p>Building containerized environments and strengthening orchestration knowledge for reliable, portable, and scalable deployments.</p>
+        <p style="margin-top:8px;"><img src="https://img.shields.io/badge/Status-Learning-0F766E?style=for-the-badge&labelColor=0d1117" alt="status learning" /></p>
+      </div>
+      <div class="focus-item" style="grid-column: 1 / -1; text-align:center;">
+        <h3>⚙️ Automation &amp; DevSecOps</h3>
+        <p><b>CI/CD · Terraform · Linux · Python · Security</b></p>
+        <p>Automating repetitive processes, exploring Infrastructure as Code, and learning how security can be integrated directly into modern DevOps pipelines.</p>
+      </div>
+    </div>
+  </div>
 
-## 🏗️ What I'm Currently Working On
+  <!-- ===== PINNED PROJECTS ===== -->
+  <div class="section-card">
+    <div class="section-title"><i class="fas fa-thumbtack"></i> 📌 Pinned Projects <span class="live-badge" style="font-size:0.6rem;">featured</span></div>
+    <div class="pinned-repos">
+      <a href="https://github.com/mudsirnazik/REPO_NAME_1"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mudsirnazik&repo=REPO_NAME_1&theme=react&hide_border=true&bg_color=0d1117" alt="repo1" /></a>
+      <a href="https://github.com/mudsirnazik/REPO_NAME_2"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mudsirnazik&repo=REPO_NAME_2&theme=react&hide_border=true&bg_color=0d1117" alt="repo2" /></a>
+      <a href="https://github.com/mudsirnazik/REPO_NAME_3"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mudsirnazik&repo=REPO_NAME_3&theme=react&hide_border=true&bg_color=0d1117" alt="repo3" /></a>
+      <a href="https://github.com/mudsirnazik/REPO_NAME_4"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mudsirnazik&repo=REPO_NAME_4&theme=react&hide_border=true&bg_color=0d1117" alt="repo4" /></a>
+    </div>
+  </div>
 
-- ☁️ Building **DevOps, Cloud & Automation projects**
-- 🐳 Working with **Docker and containerized environments**
-- ☸️ Learning **Kubernetes** and advanced orchestration concepts
-- 🏗️ Exploring **Terraform and Infrastructure as Code**
-- 🔐 Learning **DevSecOps and secure deployment practices**
-- 🚀 Strengthening skills across **AWS and Azure**
-- 🤖 Exploring **AI-driven DevOps workflows**
-- 🤝 Looking to collaborate on **Cloud, DevOps, AI & Open Source projects**
+  <!-- ===== WHAT I'M WORKING ON ===== -->
+  <div class="section-card">
+    <div class="section-title"><i class="fas fa-bolt"></i> 🏗️ Currently Working On <span class="live-badge" style="font-size:0.6rem;">now</span></div>
+    <ul style="list-style:none; display:flex; flex-wrap:wrap; gap:0.8rem 2rem; font-size:0.95rem; color:#cbd5e1; padding-left:0.5rem;">
+      <li>☁️ Building DevOps, Cloud &amp; Automation projects</li>
+      <li>🐳 Working with Docker and containerized environments</li>
+      <li>☸️ Learning Kubernetes and advanced orchestration</li>
+      <li>🏗️ Exploring Terraform and Infrastructure as Code</li>
+      <li>🔐 Learning DevSecOps and secure deployment practices</li>
+      <li>🚀 Strengthening skills across AWS and Azure</li>
+      <li>🤖 Exploring AI-driven DevOps workflows</li>
+      <li>🤝 Looking to collaborate on Cloud, DevOps, AI &amp; Open Source</li>
+    </ul>
+  </div>
 
----
+  <!-- ===== FOCUS TABLE ===== -->
+  <div class="section-card">
+    <div class="section-title"><i class="fas fa-cogs"></i> ☁️ DevOps &amp; Cloud Focus <span class="live-badge" style="font-size:0.6rem;">core</span></div>
+    <div class="focus-table">
+      <div><span>🐳 Containers</span><br/>Docker-based environments</div>
+      <div><span>☸️ Orchestration</span><br/>Kubernetes deployment</div>
+      <div><span>☁️ Cloud</span><br/>AWS, Azure</div>
+      <div><span>⚙️ Automation</span><br/>CI/CD, scripting</div>
+      <div><span>🏗️ Infrastructure</span><br/>Terraform, Linux</div>
+      <div><span>🔐 DevSecOps</span><br/>Security integration</div>
+      <div><span>🐍 Scripting</span><br/>Python, PowerShell</div>
+      <div><span>🎯 Mission</span><br/>Eliminate repetitive work</div>
+    </div>
+  </div>
 
-## ☁️ DevOps & Cloud Focus
+  <!-- ===== GITHUB STATS ===== -->
+  <div class="section-card">
+    <div class="section-title"><i class="fas fa-chart-bar"></i> 📊 GitHub Stats <span class="live-badge" style="font-size:0.6rem;">live</span></div>
+    <div class="stats-grid">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mudsirnazik&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mudsirnazik&layout=compact&theme=react&hide_border=true&bg_color=0d1117&langs_count=8" alt="top langs" />
+    </div>
+    <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8rem; margin:1rem 0;">
+      <img src="https://github-trophies.vercel.app/?username=mudsirnazik&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" style="max-width:100%;" />
+    </div>
+    <div style="display:flex; justify-content:center; margin:0.5rem 0;">
+      <img src="https://streak-stats.demolab.com/?user=mudsirnazik&theme=react&hide_border=true&background=0d1117" alt="streak" style="max-width:100%;" />
+    </div>
+    <div style="margin:1rem 0;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mudsirnazik&theme=react-dark&bg_color=0d1117&color=22D3EE&line=0F766E&point=ffffff&area=true&hide_border=true" alt="activity graph" style="width:100%; border-radius:20px;" />
+    </div>
+    <div class="stats-grid">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mudsirnazik&theme=github_dark" alt="repos lang" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mudsirnazik&theme=github_dark" alt="commit lang" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mudsirnazik&theme=github_dark" alt="stats card" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mudsirnazik&theme=github_dark&utcOffset=5" alt="productive time" />
+    </div>
+  </div>
 
-I enjoy turning manual infrastructure and deployment tasks into **repeatable, automated, and scalable workflows**.
+  <!-- ===== 3D CONTRIBUTION ===== -->
+  <div class="section-card">
+    <div class="section-title"><i class="fas fa-cube"></i> 📈 3D Contribution <span class="live-badge" style="font-size:0.6rem;">graph</span></div>
+    <div class="contribution-3d">
+      <img src="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/main/profile-3d-contrib/profile-night-green.svg" alt="3d contrib" />
+    </div>
+  </div>
 
-| Focus | What I Do |
-|---|---|
-| 🐳 Containers | Docker-based environments and application packaging |
-| ☸️ Orchestration | Kubernetes deployment and container orchestration |
-| ☁️ Cloud | AWS, Azure and cloud application deployment |
-| ⚙️ Automation | CI/CD workflows, scripting and infrastructure automation |
-| 🏗️ Infrastructure | Terraform, Linux and Infrastructure as Code concepts |
-| 🔐 DevSecOps | Exploring security integration throughout the DevOps lifecycle |
-| 🐍 Scripting | Python, PowerShell and automation scripting |
-| 🎯 Mission | Eliminate repetitive work through automation and scalable infrastructure |
+  <!-- ===== SNAKE ===== -->
+  <div class="section-card">
+    <div class="section-title"><i class="fas fa-snake"></i> 🐍 Contribution Snake <span class="live-badge" style="font-size:0.6rem;">eat</span></div>
+    <div class="snake-wrap">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/output/github-snake.svg" />
+        <img alt="github snake" src="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/output/github-snake.svg" />
+      </picture>
+    </div>
+  </div>
 
----
+  <!-- ===== LET'S CONNECT ===== -->
+  <div class="section-card" style="text-align:center;">
+    <div class="section-title" style="border-left-color:#0f766e; justify-content:center;"><i class="fas fa-envelope"></i> 📬 Let's Connect <span class="live-badge" style="font-size:0.6rem;">reach out</span></div>
+    <p style="max-width:680px; margin:0 auto 1.2rem; color:#b9cbeb;">I'm interested in collaborations around <strong>DevOps, Cloud Computing, Kubernetes, Automation, AI, DevSecOps, and Open Source.</strong><br/>If you're building cloud infrastructure, automating deployments, or working on DevOps and open-source projects, feel free to reach out.</p>
+    <a href="https://www.linkedin.com/in/mudsir-nazik512/" target="_blank" style="display:inline-block; background:#0a66c2; padding:0.7rem 2.2rem; border-radius:60px; color:#fff; font-weight:600; text-decoration:none; font-size:1.1rem; border:1px solid #1a7bc4; transition:0.2s;"><i class="fab fa-linkedin-in"></i> Let's Connect</a>
+    <div class="fun-fact"><i class="fas fa-rocket" style="color:#22d3ee;"></i> Fun fact: I love turning manual tasks into automated workflows! 🚀</div>
+  </div>
 
-## 📊 GitHub Stats
+  <!-- FOOTER WAVE -->
+  <div class="footer-wave">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:0f766e,100:0f172a&height=100&section=footer" alt="footer wave" />
+  </div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mudsirnazik&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mudsirnazik&layout=compact&theme=react&hide_border=true&bg_color=0d1117&langs_count=8" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=mudsirnazik&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
+<script>
+  (function() {
+    const canvas = document.getElementById('bg-canvas');
+    const ctx = canvas.getContext('2d');
+    let w, h;
+    let particles = [];
+    const PARTICLE_COUNT = 75;
+    // moving icons + geometric shapes
+    const ICONS = ['⬡', '⬢', '◆', '◇', '●', '○', '◈', '◉', '✧', '✦', '⬟', '⬠', '◍', '◎', '◌', '◔', '◕', '⬡', '⬢', '◆'];
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mudsirnazik&theme=react&hide_border=true&background=0d1117" />
-</p>
+    function resize() {
+      w = canvas.width = window.innerWidth;
+      h = canvas.height = window.innerHeight;
+    }
+    window.addEventListener('resize', resize);
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mudsirnazik&theme=react-dark&bg_color=0d1117&color=22D3EE&line=0F766E&point=ffffff&area=true&hide_border=true" />
+    class Particle {
+      constructor() {
+        this.reset();
+      }
+      reset() {
+        this.x = Math.random() * w;
+        this.y = Math.random() * h;
+        this.size = 18 + Math.random() * 28;
+        this.speedX = (Math.random() - 0.5) * 0.9;
+        this.speedY = (Math.random() - 0.5) * 0.9;
+        this.opacity = 0.2 + Math.random() * 0.5;
+        this.icon = ICONS[Math.floor(Math.random() * ICONS.length)];
+        this.rotation = Math.random() * 6.28;
+        this.rotSpeed = (Math.random() - 0.5) * 0.025;
+        this.driftX = (Math.random() - 0.5) * 0.25;
+        this.driftY = (Math.random() - 0.5) * 0.25;
+        this.hue = 180 + Math.random() * 40; // cyan/teal range
+      }
+      update() {
+        this.x += this.speedX + this.driftX * 0.1;
+        this.y += this.speedY + this.driftY * 0.1;
+        this.rotation += this.rotSpeed;
+        if (this.x < -50) this.x = w + 50;
+        if (this.x > w + 50) this.x = -50;
+        if (this.y < -50) this.y = h + 50;
+        if (this.y > h + 50) this.y = -50;
+        if (Math.random() < 0.004) {
+          this.driftX = (Math.random() - 0.5) * 0.3;
+          this.driftY = (Math.random() - 0.5) * 0.3;
+        }
+      }
+      draw(ctx) {
+        ctx.save();
+        ctx.globalAlpha = this.opacity;
+        ctx.font = `${this.size}px "Segoe UI", "Apple Color Emoji", "Noto Color Emoji", sans-serif`;
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        ctx.translate(this.x, this.y);
+        ctx.rotate(this.rotation);
+        ctx.shadowColor = `hsl(${this.hue}, 70%, 60%, 0.25)`;
+        ctx.shadowBlur = 22;
+        ctx.fillStyle = `hsl(${this.hue}, 65%, 75%)`;
+        ctx.fillText(this.icon, 0, 0);
+        ctx.restore();
+      }
+    }
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mudsirnazik&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mudsirnazik&theme=github_dark" />
-</p>
+    function initParticles() {
+      particles = [];
+      for (let i = 0; i < PARTICLE_COUNT; i++) {
+        particles.push(new Particle());
+      }
+    }
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mudsirnazik&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mudsirnazik&theme=github_dark&utcOffset=5" />
-</p>
+    function animate() {
+      ctx.clearRect(0, 0, w, h);
+      // radial vignette
+      const grad = ctx.createRadialGradient(w*0.5, h*0.5, 20, w*0.5, h*0.5, Math.max(w,h)*0.7);
+      grad.addColorStop(0, 'rgba(15, 23, 42, 0.0)');
+      grad.addColorStop(1, 'rgba(2, 6, 23, 0.4)');
+      ctx.fillStyle = grad;
+      ctx.fillRect(0, 0, w, h);
 
----
+      particles.forEach(p => {
+        p.update();
+        p.draw(ctx);
+      });
+      requestAnimationFrame(animate);
+    }
 
-## 📈 3D Contribution Graph
+    resize();
+    initParticles();
+    animate();
 
-<!-- Requires GitHub Action setup for github-profile-3d-contrib -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<!-- Requires GitHub Action setup to generate the snake SVG files -->
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
-## 📬 Let's Connect
-
-I'm interested in collaborations around **DevOps, Cloud Computing, Kubernetes, Automation, AI, DevSecOps, and Open Source**.
-
-If you're building cloud infrastructure, automating deployments, or working on DevOps and open-source projects, feel free to reach out.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mudsir-nazik512/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Fun fact: I love turning manual tasks into automated workflows! 🚀</i>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:0f766e,100:0f172a&height=100&section=footer" />   
+    window.addEventListener('resize', () => {
+      resize();
+      particles.forEach(p => {
+        p.x = Math.min(w, Math.max(0, p.x));
+        p.y = Math.min(h, Math.max(0, p.y));
+      });
+    });
+  })();
+</script>
+</body>
+</html>
