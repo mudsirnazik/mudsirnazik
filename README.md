@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀%20Open%20to-DevOps%20%7C%20Cloud%20%7C%20Open%20Source%20Collaborations-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20Open%20to-DevOps%20%7C%20Cloud%20%7C%20Open%20Source%20Collaborations-0891B2?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <p align="center">
@@ -17,21 +17,19 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>&nbsp;
   <a href="https://github.com/mudsirnazik">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-22D3EE?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mudsirnazik&label=Profile+Views&color=0891b2&style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/github/followers/mudsirnazik?label=Followers&style=for-the-badge&color=0891b2&labelColor=0d1117" />
-  <a href="https://github.com/mudsirnazik">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://img.shields.io/github/last-commit/mudsirnazik/mudsirnazik?label=Last%20Updated&style=for-the-badge&color=22D3EE&labelColor=0d1117" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:f0fdff,100:ffffff&height=110&section=header&text=About%20Me&fontSize=30&fontColor=0f172a&fontAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=110&section=header&text=About%20Me&fontSize=30&fontColor=0f172a&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 <table align="center" width="100%">
 <tr>
@@ -43,10 +41,10 @@
 I build and automate cloud infrastructure, design CI/CD pipelines, and explore the intersection of **AiOps**, **DevOps**, **DevSecOps**, and **Artificial Intelligence** to make deployments smarter, faster, and more secure.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AiOps-0891B2?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AiOps-0891B2?style=for-the-badge&logo=robotframework&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/DevOps-0F766E?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/DevSecOps-22D3EE?style=for-the-badge&logoColor=0d1117&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=for-the-badge&logo=openai&logoColor=22D3EE&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/DevSecOps-22D3EE?style=for-the-badge&logo=hashicorp&logoColor=0d1117&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0891B2?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
 </p>
 
 **🚀 What I'm currently doing:**
@@ -61,31 +59,40 @@ I build and automate cloud infrastructure, design CI/CD pipelines, and explore t
 | 🤖 | Exploring **AiOps** — AI-driven DevOps automation |
 | 🤝 | Open to Cloud, DevOps & Open-Source collaborations |
 
+**📊 Skill Confidence**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-80%25-0891B2?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Kubernetes-60%25-0891B2?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AWS-70%25-0891B2?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-70%25-0891B2?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Terraform-50%25-0891B2?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CI%2FCD-75%25-0891B2?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/DevSecOps-45%25-0891B2?style=for-the-badge&logo=vault&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Linux-85%25-0891B2?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Python-65%25-0891B2?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+</p>
+
 **💡 Passionate about:**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/☁️_Cloud_Computing-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/⚙️_DevOps_%26_Automation-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/☸️_Kubernetes-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/🔐_DevSecOps-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/🐧_Linux-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/badge/🤝_Open_Source-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
+  <img src="https://img.shields.io/badge/☁️_Cloud_Computing-0F172A?style=flat-square&labelColor=0F172A&color=0F172A" />
+  <img src="https://img.shields.io/badge/⚙️_DevOps_%26_Automation-0F172A?style=flat-square&labelColor=0F172A&color=0F172A" />
+  <img src="https://img.shields.io/badge/☸️_Kubernetes-0F172A?style=flat-square&labelColor=0F172A&color=0F172A" />
+  <img src="https://img.shields.io/badge/🔐_DevSecOps-0F172A?style=flat-square&labelColor=0F172A&color=0F172A" />
+  <img src="https://img.shields.io/badge/🐧_Linux-0F172A?style=flat-square&labelColor=0F172A&color=0F172A" />
+  <img src="https://img.shields.io/badge/🤝_Open_Source-0F172A?style=flat-square&labelColor=0F172A&color=0F172A" />
 </p>
-
-**📊 Skill Confidence:**
-
-`Docker`        `████████████████░░░░` 80%
-`Kubernetes`    `████████████░░░░░░░░` 60%
-`AWS / Azure`   `██████████████░░░░░░` 70%
-`Terraform`     `██████████░░░░░░░░░░` 50%
-`CI/CD`         `███████████████░░░░░` 75%
-`DevSecOps`     `█████████░░░░░░░░░░░` 45%
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:f0fdff,100:ffffff&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=90&section=footer" width="100%"/>
 
 ---
 
@@ -96,55 +103,50 @@ I build and automate cloud infrastructure, design CI/CD pipelines, and explore t
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/NixOS-0891B2?style=for-the-badge&logo=nixos&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-0891B2?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-0891B2?style=for-the-badge&logo=apachetomcat&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/SQL%20Server-0891B2?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Sentry-0891B2?style=for-the-badge&logo=sentry&logoColor=white&labelColor=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFmpeg-171717?style=for-the-badge&logo=ffmpeg&logoColor=5cb85c" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20CC-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Affinity%20Photo-7E4DD2?style=for-the-badge&logo=affinityphoto&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-0891B2?style=for-the-badge&logo=scipy&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/FFmpeg-0891B2?style=for-the-badge&logo=ffmpeg&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Canva-0891B2?style=for-the-badge&logo=canva&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Adobe%20CC-0891B2?style=for-the-badge&logo=adobecreativecloud&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Affinity%20Photo-0891B2?style=for-the-badge&logo=affinityphoto&logoColor=white&labelColor=0d1117" />
 </p>
 
 ---
 
-## 🚀 DevOps & Cloud Journey
+## 🏆 Achievements & Focus Areas
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>☁️ Cloud Engineering</h3>
-      <p><b>AWS · Azure · Cloud Deployment</b></p>
-      <p>
-        Exploring cloud architecture, deployment strategies, infrastructure management, and scalable application hosting across modern cloud platforms.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Focus-Cloud%20Engineering-0891B2?style=for-the-badge&labelColor=0d1117" />
-      </p>
+    <td width="25%" align="center">
+      <h2>☁️</h2>
+      <b>Cloud Engineering</b><br/>
+      <sub>AWS · Azure</sub><br/>
+      <img src="https://img.shields.io/badge/Focus-Active-0891B2?style=flat-square&labelColor=0d1117" />
     </td>
-    <td width="50%" valign="top">
-      <h3>☸️ Kubernetes & Containers</h3>
-      <p><b>Docker · Kubernetes · Nginx</b></p>
-      <p>
-        Building containerized environments and strengthening orchestration knowledge for reliable, portable, and scalable deployments.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Learning-0F766E?style=for-the-badge&labelColor=0d1117" />
-      </p>
+    <td width="25%" align="center">
+      <h2>🐳</h2>
+      <b>Containers</b><br/>
+      <sub>Docker · Nginx</sub><br/>
+      <img src="https://img.shields.io/badge/Focus-Active-0891B2?style=flat-square&labelColor=0d1117" />
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <h3>⚙️ Automation & DevSecOps</h3>
-      <p><b>CI/CD · Terraform · Linux · Python · Security</b></p>
-      <p>
-        Automating repetitive processes, exploring Infrastructure as Code, and learning how security can be integrated directly into modern DevOps pipelines.
-      </p>
+    <td width="25%" align="center">
+      <h2>☸️</h2>
+      <b>Orchestration</b><br/>
+      <sub>Kubernetes</sub><br/>
+      <img src="https://img.shields.io/badge/Status-Learning-0F766E?style=flat-square&labelColor=0d1117" />
+    </td>
+    <td width="25%" align="center">
+      <h2>🔐</h2>
+      <b>DevSecOps</b><br/>
+      <sub>Security in CI/CD</sub><br/>
+      <img src="https://img.shields.io/badge/Status-Learning-0F766E?style=flat-square&labelColor=0d1117" />
     </td>
   </tr>
 </table>
@@ -181,19 +183,19 @@ graph LR
 
 <p align="center">
   <a href="https://github.com/mudsirnazik/REPO_NAME_1">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mudsirnazik&repo=REPO_NAME_1&theme=react&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mudsirnazik&repo=REPO_NAME_1&theme=react&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=0891B2" />
   </a>
   <a href="https://github.com/mudsirnazik/REPO_NAME_2">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mudsirnazik&repo=REPO_NAME_2&theme=react&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mudsirnazik&repo=REPO_NAME_2&theme=react&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=0891B2" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mudsirnazik/REPO_NAME_3">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mudsirnazik&repo=REPO_NAME_3&theme=react&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mudsirnazik&repo=REPO_NAME_3&theme=react&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=0891B2" />
   </a>
   <a href="https://github.com/mudsirnazik/REPO_NAME_4">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mudsirnazik&repo=REPO_NAME_4&theme=react&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mudsirnazik&repo=REPO_NAME_4&theme=react&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=0891B2" />
   </a>
 </p>
 
@@ -232,8 +234,8 @@ I enjoy turning manual infrastructure and deployment tasks into **repeatable, au
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mudsirnazik&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mudsirnazik&layout=compact&theme=react&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mudsirnazik&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=0891B2&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mudsirnazik&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9&langs_count=8" />
 </p>
 
 <p align="center">
@@ -241,7 +243,7 @@ I enjoy turning manual infrastructure and deployment tasks into **repeatable, au
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mudsirnazik&theme=react&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com/?user=mudsirnazik&theme=react&hide_border=true&background=0d1117&ring=0891B2&fire=22D3EE&currStreakLabel=22D3EE" />
 </p>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mudsirnazik&theme=react-dark&bg_color=0d1117&color=22D3EE&line=0F766E&point=ffffff&area=true&hide_border=true" />
@@ -282,14 +284,6 @@ I enjoy turning manual infrastructure and deployment tasks into **repeatable, au
 
 ---
 
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
 ## 📬 Let's Connect
 
 I'm interested in collaborations around **DevOps, Cloud Computing, Kubernetes, Automation, AI, DevSecOps, and Open Source**.
@@ -298,12 +292,32 @@ If you're building cloud infrastructure, automating deployments, or working on D
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mudsir-nazik512/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>&nbsp;
+  <a href="https://github.com/mudsirnazik">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-22D3EE?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" />
   </a>
 </p>
 
 <p align="center">
   <i>Fun fact: I love turning manual tasks into automated workflows! 🚀</i>
 </p>
+
+---
+
+<div align="center">
+
+## 📡 Live Feed
+
+<img src="https://komarev.com/ghpvc/?username=mudsirnazik&label=🟢+Live+Profile+Views&color=0891B2&style=for-the-badge&labelColor=0d1117" />
+
+<img src="https://img.shields.io/github/last-commit/mudsirnazik/mudsirnazik?label=🔄+Last+Activity&style=for-the-badge&color=22D3EE&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/mudsirnazik?label=🧑‍🤝‍🧑+Live+Followers&style=for-the-badge&color=0891B2&labelColor=0d1117" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<sub>⚡ Badges above update automatically in real time — no manual edits needed.</sub>
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:0f766e,100:0f172a&height=100&section=footer" />
