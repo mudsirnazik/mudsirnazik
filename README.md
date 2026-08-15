@@ -31,43 +31,54 @@
 
 ---
 
-## 👾 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:cffafe,100:ecfeff&height=110&section=header&text=About%20Me&fontSize=30&fontColor=0f172a&fontAlignY=55&animation=fadeIn" width="100%"/>
 
-```yaml
-name: Mudsir Nazik
-role: DevOps | Cloud | Automation Enthusiast
+<table align="center" width="100%">
+<tr>
+<td>
 
-what_i_do:
-  - Build and automate cloud infrastructure
-  - Create CI/CD pipelines and deployment workflows
-  - Containerize applications with Docker
-  - Explore Kubernetes-based orchestration
-  - Work with Linux, Git, Python, AWS, and Azure
+### 👋 Hi, I'm **Mudsir Nazik**
+**DevOps | Cloud | Automation Engineer**
 
-currently:
-  - ☁️ Building DevOps, Cloud & Automation projects
-  - 🐳 Working with Docker and containerized environments
-  - ☸️ Learning advanced Kubernetes concepts
-  - 🏗️ Exploring Terraform and Infrastructure as Code
-  - 🔐 Expanding knowledge in DevSecOps
-  - 🤖 Exploring AI-driven DevOps automation
+I build and automate cloud infrastructure, design CI/CD pipelines, and explore the intersection of **AiOps**, **DevOps**, **DevSecOps**, and **Artificial Intelligence** to make deployments smarter, faster, and more secure.
 
-passionate_about:
-  - ☁️ Cloud Computing
-  - ⚙️ DevOps & Automation
-  - ☸️ Kubernetes & Container Orchestration
-  - 🔐 DevSecOps
-  - 🐧 Linux & Infrastructure
-  - 🤝 Open Source
+<p align="left">
+  <img src="https://img.shields.io/badge/AiOps-e0f2fe?style=for-the-badge&logoColor=0f172a&labelColor=e0f2fe&color=e0f2fe" />
+  <img src="https://img.shields.io/badge/DevOps-cffafe?style=for-the-badge&logo=devdotto&logoColor=0f172a&labelColor=cffafe&color=cffafe" />
+  <img src="https://img.shields.io/badge/DevSecOps-ecfeff?style=for-the-badge&logoColor=0f172a&labelColor=ecfeff&color=ecfeff" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-f0f9ff?style=for-the-badge&logo=openai&logoColor=0f172a&labelColor=f0f9ff&color=f0f9ff" />
+</p>
 
-open_to:
-  - DevOps collaborations
-  - Cloud engineering projects
-  - Open-source contributions
-  - Infrastructure automation projects
-  - AI-driven DevOps initiatives
+**🚀 What I'm currently doing:**
 
-```
+| | |
+|---|---|
+| ☁️ | Building DevOps, Cloud & Automation projects |
+| 🐳 | Working with Docker & containerized environments |
+| ☸️ | Learning advanced Kubernetes concepts |
+| 🏗️ | Exploring Terraform & Infrastructure as Code |
+| 🔐 | Expanding knowledge in DevSecOps |
+| 🤖 | Exploring **AiOps** — AI-driven DevOps automation |
+| 🤝 | Open to Cloud, DevOps & Open-Source collaborations |
+
+**💡 Passionate about:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/☁️_Cloud_Computing-f8fafc?style=flat-square&labelColor=f8fafc&color=f8fafc" />
+  <img src="https://img.shields.io/badge/⚙️_DevOps_%26_Automation-f8fafc?style=flat-square&labelColor=f8fafc&color=f8fafc" />
+  <img src="https://img.shields.io/badge/☸️_Kubernetes-f8fafc?style=flat-square&labelColor=f8fafc&color=f8fafc" />
+  <img src="https://img.shields.io/badge/🔐_DevSecOps-f8fafc?style=flat-square&labelColor=f8fafc&color=f8fafc" />
+  <img src="https://img.shields.io/badge/🐧_Linux-f8fafc?style=flat-square&labelColor=f8fafc&color=f8fafc" />
+  <img src="https://img.shields.io/badge/🤝_Open_Source-f8fafc?style=flat-square&labelColor=f8fafc&color=f8fafc" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ecfeff,50:cffafe,100:e0f2fe&height=90&section=footer" width="100%"/>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -254,4 +265,4 @@ If you're building cloud infrastructure, automating deployments, or working on D
   <i>Fun fact: I love turning manual tasks into automated workflows! 🚀</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:0f766e,100:0f172a&height=100&section=footer" />   
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:0f766e,100:0f172a&height=100&section=footer" />
