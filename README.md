@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/main/devops-tools-fast-banner-v2.svg" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/🚀%20Open%20to-DevOps%20%7C%20Cloud%20%7C%20Open%20Source%20Collaborations-22c55e?style=for-the-badge" />
 </p>
 
