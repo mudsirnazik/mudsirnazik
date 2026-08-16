@@ -27,10 +27,6 @@
   <img src="https://img.shields.io/github/last-commit/mudsirnazik/mudsirnazik?label=Last%20Updated&style=for-the-badge&color=22D3EE&labelColor=0d1117&logo=git&logoColor=white" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0891b2&height=40&section=header" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=110&text=About%20Me&fontSize=32&fontColor=0f172a&fontAlignY=55" width="100%"/>
-
 <table align="center" width="100%">
 <tr>
 <td>
