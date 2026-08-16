@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+<defs>
+ <linearGradient id="a" x1="0%" x2="100%">
+  <stop offset="0%" stop-color="#020617"><animate attributeName="stop-color" values="#020617;#0f172a;#020617" dur="6s" repeatCount="indefinite"/></stop>
+  <stop offset="50%" stop-color="#0f766e"><animate attributeName="stop-color" values="#0f766e;#0891b2;#0f766e" dur="7s" repeatCount="indefinite"/></stop>
+  <stop offset="100%" stop-color="#020617"><animate attributeName="stop-color" values="#020617;#0f766e;#020617" dur="8s" repeatCount="indefinite"/></stop>
+ </linearGradient>
+ <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.5" fill="#22d3ee" opacity=".18"/></pattern>
+</defs>
+<rect width="1200" height="240" rx="18" fill="url(#a)"/>
+<rect width="1200" height="240" fill="url(#dots)"/>
+
+<!-- Floating old + new feature icons -->
+<g font-family="Arial,sans-serif" font-size="26" fill="#fff">
+ <text x="80" y="75">☁️<animateTransform attributeName="transform" type="translate" values="0 0;25 55;0 0" dur="5s" repeatCount="indefinite"/></text>
+ <text x="185" y="190">🐳<animateTransform attributeName="transform" type="translate" values="0 0;-20 -45;0 0" dur="6s" repeatCount="indefinite"/></text>
+ <text x="310" y="65">☸️<animateTransform attributeName="transform" type="rotate" values="0 325 58;360 325 58" dur="8s" repeatCount="indefinite"/></text>
+ <text x="430" y="195">🏗️<animateTransform attributeName="transform" type="translate" values="0 0;20 -55;0 0" dur="5.5s" repeatCount="indefinite"/></text>
+ <text x="750" y="65">🔐<animateTransform attributeName="transform" type="translate" values="0 0;-20 55;0 0" dur="5s" repeatCount="indefinite"/></text>
+ <text x="880" y="190">🐍<animateTransform attributeName="transform" type="translate" values="0 0;25 -45;0 0" dur="6.5s" repeatCount="indefinite"/></text>
+ <text x="1010" y="70">🤖<animateTransform attributeName="transform" type="translate" values="0 0;-20 50;0 0" dur="7s" repeatCount="indefinite"/></text>
+ <text x="1120" y="185">🚀<animateTransform attributeName="transform" type="translate" values="0 0;-25 -40;0 0" dur="5.5s" repeatCount="indefinite"/></text>
+</g>
+
+<text x="600" y="65" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="28" font-weight="800">ABOUT ME</text>
+<text x="600" y="103" text-anchor="middle" fill="#22d3ee" font-family="monospace" font-size="18">BUILD • AUTOMATE • SECURE • SCALE</text>
+
+<!-- Feature carousel: every old feature remains represented -->
+<g text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700">
+ <text x="600" y="145" fill="#fff">
+   ☁️ Cloud • 🐳 Docker • ☸️ Kubernetes • 🏗️ Terraform
+   <animate attributeName="opacity" values="1;.15;1" dur="3s" repeatCount="indefinite"/>
+ </text>
+ <text x="600" y="175" fill="#fff">
+   🔐 DevSecOps • 🤖 AiOps • 🐍 Python • ⚙️ Automation • 💻 Linux
+   <animate attributeName="opacity" values=".15;1;.15" dur="3s" repeatCount="indefinite"/>
+ </text>
+ <text x="600" y="205" fill="#c9d1d9" font-size="13">CI/CD • AWS • Azure • Infrastructure as Code • Open Source</text>
+</g>
+</svg>
