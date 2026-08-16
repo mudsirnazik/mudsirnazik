@@ -40,7 +40,7 @@
 </p>
   
 ### 👋 Hi, I'm **Mudsir Nazik**
-**DevOps | Cloud | Automation Engineer**
+**DevOps | Cloud | AiOps | DevSecOps | Automation Engineer**
 
 I build and automate cloud infrastructure, design CI/CD pipelines, and explore the intersection of **AiOps**, **DevOps**, **DevSecOps**, and **Artificial Intelligence** to make deployments smarter, faster, and more secure.
 
