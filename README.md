@@ -23,13 +23,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mudsirnazik&label=Profile+Views&color=0891b2&style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/followers/mudsirnazik?label=Followers&style=for-the-badge&color=0891b2&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/last-commit/mudsirnazik/mudsirnazik?label=Last%20Updated&style=for-the-badge&color=22D3EE&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/mudsirnazik?label=Followers&style=for-the-badge&color=0891b2&labelColor=0d1117&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/mudsirnazik/mudsirnazik?label=Last%20Updated&style=for-the-badge&color=22D3EE&labelColor=0d1117&logo=git&logoColor=white" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:cffafe,100:e0f2fe&height=40&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=110&section=header&text=About%20Me&fontSize=30&fontColor=0f172a&fontAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=110&text=About%20Me&fontSize=32&fontColor=0f172a&fontAlignY=55" width="100%"/>
 
 <table align="center" width="100%">
 <tr>
@@ -92,9 +92,9 @@ I build and automate cloud infrastructure, design CI/CD pipelines, and explore t
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=40" width="100%"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:cffafe,100:e0f2fe&height=40&section=footer" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -118,7 +118,7 @@ I build and automate cloud infrastructure, design CI/CD pipelines, and explore t
   <img src="https://img.shields.io/badge/Affinity%20Photo-0891B2?style=for-the-badge&logo=affinityphoto&logoColor=white&labelColor=0d1117" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:cffafe,100:e0f2fe&height=40&section=header" width="100%"/>
 
 ## 🏆 Achievements & Focus Areas
 
@@ -151,7 +151,7 @@ I build and automate cloud infrastructure, design CI/CD pipelines, and explore t
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:cffafe,100:e0f2fe&height=40&section=header" width="100%"/>
 
 ## 🗺️ My DevOps Roadmap
 
@@ -175,7 +175,7 @@ graph LR
     style H fill:#0f766e,stroke:#22D3EE,color:#ffffff
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:cffafe,100:e0f2fe&height=40&section=header" width="100%"/>
 
 ## 📌 Pinned Projects
 
@@ -199,7 +199,7 @@ graph LR
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:cffafe,100:e0f2fe&height=40&section=header" width="100%"/>
 
 ## 🏗️ What I'm Currently Working On
 
@@ -212,7 +212,7 @@ graph LR
 - 🤖 Exploring **AI-driven DevOps workflows**
 - 🤝 Looking to collaborate on **Cloud, DevOps, AI & Open Source projects**
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:cffafe,100:e0f2fe&height=40&section=header" width="100%"/>
 
 ## ☁️ DevOps & Cloud Focus
 
@@ -229,7 +229,7 @@ I enjoy turning manual infrastructure and deployment tasks into **repeatable, au
 | 🐍 Scripting | Python, PowerShell and automation scripting |
 | 🎯 Mission | Eliminate repetitive work through automation and scalable infrastructure |
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:cffafe,100:e0f2fe&height=40&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -258,7 +258,7 @@ I enjoy turning manual infrastructure and deployment tasks into **repeatable, au
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mudsirnazik&theme=github_dark&utcOffset=5" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:cffafe,100:e0f2fe&height=40&section=header" width="100%"/>
 
 ## 📈 3D Contribution Graph
 
@@ -268,7 +268,7 @@ I enjoy turning manual infrastructure and deployment tasks into **repeatable, au
   <img src="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:cffafe,100:e0f2fe&height=40&section=header" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -282,7 +282,7 @@ I enjoy turning manual infrastructure and deployment tasks into **repeatable, au
   </picture>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:cffafe,100:e0f2fe&height=40&section=header" width="100%"/>
 
 ## 📬 Let's Connect
 
@@ -303,21 +303,29 @@ If you're building cloud infrastructure, automating deployments, or working on D
   <i>Fun fact: I love turning manual tasks into automated workflows! 🚀</i>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:cffafe,100:e0f2fe&height=40&section=header" width="100%"/>
 
 <div align="center">
 
 ## 📡 Live Feed
 
-<img src="https://komarev.com/ghpvc/?username=mudsirnazik&label=🟢+Live+Profile+Views&color=0891B2&style=for-the-badge&labelColor=0d1117" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mudsirnazik&label=Live+Profile+Views&color=0891B2&style=for-the-badge&labelColor=0d1117" />
+</p>
 
-<img src="https://img.shields.io/github/last-commit/mudsirnazik/mudsirnazik?label=🔄+Last+Activity&style=for-the-badge&color=22D3EE&labelColor=0d1117" />
-<img src="https://img.shields.io/github/followers/mudsirnazik?label=🧑‍🤝‍🧑+Live+Followers&style=for-the-badge&color=0891B2&labelColor=0d1117" />
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/mudsirnazik/mudsirnazik?label=Last%20Activity&style=for-the-badge&color=22D3EE&labelColor=0d1117&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/mudsirnazik?label=Live%20Followers&style=for-the-badge&color=0891B2&labelColor=0d1117&logo=github&logoColor=white" />
+</p>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<br/>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 <sub>⚡ Badges above update automatically in real time — no manual edits needed.</sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:0f766e,100:0f172a&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:0f766e,100:0f172a&height=100&section=footer" />   
