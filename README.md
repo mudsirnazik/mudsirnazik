@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/main/assets/animated-header.svg" width="100%" alt="Mudsir Nazik animated header" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0891b2&height=140&section=header&text=Mudsir%20Nazik&fontSize=42&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=DevOps%20%7C%20Cloud%20%7C%20Automation%20Engineer&descAlignY=62&descSize=15&descAlign=50" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Docker+%7C+Kubernetes+%7C+CI%2FCD+%F0%9F%90%B3;AWS+%7C+Azure+%7C+Terraform+%F0%9F%9A%80;Automating+Everything+Possible+%E2%9A%99%EF%B8%8F;Learning+Cloud+Architecture+%26+DevSecOps+%F0%9F%94%90;Turning+Manual+Tasks+into+Workflows+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Docker+%7C+Kubernetes+%7C+CI%2FCD+%F0%9F%90%B3;AWS+%7C+Azure+%7C+Terraform+%F0%9F%9A%80;Automating+Everything+Possible+%E2%9A%99%EF%B8%8F;Learning+Cloud+Architecture+%26+DevSecOps+%F0%9F%94%90;Turning+Manual+Tasks+into+Workflows+%F0%9F%A4%96" alt="Typing SVG" />   
 </p>
 
 <p align="center">
@@ -29,14 +27,13 @@
   <img src="https://img.shields.io/github/last-commit/mudsirnazik/mudsirnazik?label=Last%20Updated&style=for-the-badge&color=22D3EE&labelColor=0d1117&logo=git&logoColor=white" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:0f766e,70:0891b2,100:22d3ee&height=48&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0891b2&height=40&section=header" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=110&text=About%20Me&fontSize=32&fontColor=0f172a&fontAlignY=55" width="100%"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/main/assets/animated-about.svg" width="100%" alt="Animated About Me background and DevOps feature flow" />
+  <img src="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/main/assets/animated-about.gif" width="100%" alt="Animated About Me" />
 </p>
-
 
 <table align="center" width="100%">
 <tr>
@@ -57,7 +54,7 @@ I build and automate cloud infrastructure, design CI/CD pipelines, and explore t
 **🚀 What I'm currently doing:**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/main/assets/animated-features.svg" width="100%" alt="Animated current focus features" />
+  <img src="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/main/assets/animated-features.gif" width="100%" alt="Animated DevOps Features" />
 </p>
 
 | | |
@@ -129,7 +126,7 @@ I build and automate cloud infrastructure, design CI/CD pipelines, and explore t
   <img src="https://img.shields.io/badge/Affinity%20Photo-0891B2?style=for-the-badge&logo=affinityphoto&logoColor=white&labelColor=0d1117" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:0f766e,70:0891b2,100:22d3ee&height=48&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0891b2&height=40&section=header" width="100%"/>
 
 ## 🏆 Achievements & Focus Areas
 
@@ -162,7 +159,7 @@ I build and automate cloud infrastructure, design CI/CD pipelines, and explore t
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:0f766e,70:0891b2,100:22d3ee&height=48&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0891b2&height=40&section=header" width="100%"/>
 
 ## 🗺️ My DevOps Roadmap
 
@@ -186,7 +183,7 @@ graph LR
     style H fill:#0f766e,stroke:#22D3EE,color:#ffffff
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:0f766e,70:0891b2,100:22d3ee&height=48&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0891b2&height=40&section=header" width="100%"/>
 
 ## 📌 Pinned Projects
 
@@ -210,7 +207,7 @@ graph LR
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:0f766e,70:0891b2,100:22d3ee&height=48&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0891b2&height=40&section=header" width="100%"/>
 
 ## 🏗️ What I'm Currently Working On
 
@@ -223,7 +220,7 @@ graph LR
 - 🤖 Exploring **AI-driven DevOps workflows**
 - 🤝 Looking to collaborate on **Cloud, DevOps, AI & Open Source projects**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:0f766e,70:0891b2,100:22d3ee&height=48&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0891b2&height=40&section=header" width="100%"/>
 
 ## ☁️ DevOps & Cloud Focus
 
@@ -240,7 +237,7 @@ I enjoy turning manual infrastructure and deployment tasks into **repeatable, au
 | 🐍 Scripting | Python, PowerShell and automation scripting |
 | 🎯 Mission | Eliminate repetitive work through automation and scalable infrastructure |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:0f766e,70:0891b2,100:22d3ee&height=48&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0891b2&height=40&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -269,7 +266,7 @@ I enjoy turning manual infrastructure and deployment tasks into **repeatable, au
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mudsirnazik&theme=github_dark&utcOffset=5" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:0f766e,70:0891b2,100:22d3ee&height=48&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0891b2&height=40&section=header" width="100%"/>
 
 ## 📈 3D Contribution Graph
 
@@ -279,7 +276,7 @@ I enjoy turning manual infrastructure and deployment tasks into **repeatable, au
   <img src="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:0f766e,70:0891b2,100:22d3ee&height=48&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0891b2&height=40&section=header" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -293,7 +290,7 @@ I enjoy turning manual infrastructure and deployment tasks into **repeatable, au
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:0f766e,70:0891b2,100:22d3ee&height=48&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0891b2&height=40&section=header" width="100%"/>
 
 ## 📬 Let's Connect
 
@@ -314,7 +311,7 @@ If you're building cloud infrastructure, automating deployments, or working on D
   <i>Fun fact: I love turning manual tasks into automated workflows! 🚀</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:0f766e,70:0891b2,100:22d3ee&height=48&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0891b2&height=40&section=header" width="100%"/>
 
 <div align="center">
 
