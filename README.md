@@ -31,10 +31,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=110&text=About%20Me&fontSize=32&fontColor=0f172a&fontAlignY=55" width="100%"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/main/assets/animated-about.gif" width="100%" alt="Animated About Me" />
-</p>
-
 <table align="center" width="100%">
 <tr>
 <td>
