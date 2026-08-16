@@ -34,7 +34,11 @@
 <table align="center" width="100%">
 <tr>
 <td>
-
+  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mudsirnazik/mudsirnazik/main/assets/animated-about.gif" width="100%" alt="Animated About Me" />
+</p>
+  
 ### 👋 Hi, I'm **Mudsir Nazik**
 **DevOps | Cloud | Automation Engineer**
 
