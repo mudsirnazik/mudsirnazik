@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0891b2&height=140&section=header&text=Mudsir%20Nazik&fontSize=42&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=DevOps%20%7C%20Cloud%20%7C%20Automation%20Engineer&descAlignY=62&descSize=15&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0891b2&height=140&section=header&text=Mudsir%20Nazik&fontSize=42&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=DevOps%20%7C%20Cloud%20%7C%20AiOps%20%7C%20DevSecOps%20%7C%20Automation%20Engineer&descAlignY=62&descSize=15&descAlign=50" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Docker+%7C+Kubernetes+%7C+CI%2FCD+%F0%9F%90%B3;AWS+%7C+Azure+%7C+Terraform+%F0%9F%9A%80;Automating+Everything+Possible+%E2%9A%99%EF%B8%8F;Learning+Cloud+Architecture+%26+DevSecOps+%F0%9F%94%90;Turning+Manual+Tasks+into+Workflows+%F0%9F%A4%96" alt="Typing SVG" />   
