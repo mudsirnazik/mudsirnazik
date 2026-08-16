@@ -96,8 +96,6 @@ I build and automate cloud infrastructure, design CI/CD pipelines, and explore t
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=40" width="100%"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0891b2&height=40&section=footer" width="100%"/>
 
 ## 🛠️ Tech Stack
